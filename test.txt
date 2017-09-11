@@ -1,4 +1,8 @@
 
 this new add2
 his in GitHub
+<<<<<<< HEAD
 123
+=======
+brance1
+>>>>>>> new_brance
